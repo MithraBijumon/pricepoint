@@ -1,0 +1,6 @@
+sku_id,category,current_price,current_quantity,cost_price,elasticity,competitor_price,margin_target
+SKU001,Electronics,100,1000,60,-0.8,98,0.30
+SKU002,Electronics,200,500,130,-1.5,205,0.25
+SKU003,Grocery,50,2000,30,-0.5,49,0.20
+SKU004,Fashion,500,300,280,-2.0,520,0.35
+SKU005,Home,800,150,500,-1.2,780,0.30
